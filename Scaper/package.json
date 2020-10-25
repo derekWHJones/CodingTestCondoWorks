@@ -1,0 +1,15 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "web scraper test for condoworks",
+  "main": "Scraper.js",
+  "dependencies": {
+    "puppeteer": "^5.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Derek Jones",
+  "license": "ISC"
+}
